@@ -1,0 +1,12 @@
+{
+  "name": "jackyef",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jackyef/jackyef.git",
+  "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@now/node": "^1.7.1",
+    "typescript": "^3.9.6"
+  }
+}
