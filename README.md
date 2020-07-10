@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Jacky, I work with JavaScript and all-things web! 🌐
+👨‍💻 I'm Jacky!
+🌐 I work with JavaScript and all-things web
 
 ### You can leave me some emojis! ⬇️
 <table>
