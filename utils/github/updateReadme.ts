@@ -31,7 +31,8 @@ export const updateReadme = async (type: string) => {
   const startIndex = originalReadmeContentString.indexOf(stringToFind) + stringToFind.length;
   const endIndex = originalReadmeContentString.indexOf(`</span>`, startIndex);
   
-  const prevCount = Number(originalReadmeContentString.substring(startIndex, endIndex));
+  const prevCount = Number(originalReadmeContentString.substring(startIndex, endIndex)) || 0;
+
   const newReadmeContentString = `${originalReadmeContentString.substring(0, startIndex)}${prevCount + 1}${originalReadmeContentString.substring(endIndex)}`;
 
   const response = await fetch(
