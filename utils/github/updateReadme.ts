@@ -27,9 +27,9 @@ export const updateReadme = async (type: string) => {
   const originalReadmeContentJson = (await originalReadmeResponse.json());
   const originalReadmeContentString = Buffer.from(originalReadmeContentJson.content, 'base64').toString('utf-8');
 
-  const stringToFind = `<a id="count-${type}">`;
+  const stringToFind = `<span id="count-${type}">`;
   const startIndex = originalReadmeContentString.indexOf(stringToFind) + stringToFind.length;
-  const endIndex = originalReadmeContentString.indexOf(`</a>`, startIndex);
+  const endIndex = originalReadmeContentString.indexOf(`</span>`, startIndex);
   
   const prevCount = Number(originalReadmeContentString.substring(startIndex, endIndex));
   const newReadmeContentString = `${originalReadmeContentString.substring(0, startIndex)}${prevCount + 1}${originalReadmeContentString.substring(endIndex)}`;

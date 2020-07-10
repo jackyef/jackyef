@@ -3,8 +3,8 @@
 My name is Jacky, I work with JavaScript and all-things web! 🌐
 
 ### You can leave me some emojis! ⬇️
-<table style="text-align: center">
-<tr>
+<table>
+<tr align="center">
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👋">👋</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👍">👍</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👊">👊</a></td>
@@ -16,17 +16,17 @@ My name is Jacky, I work with JavaScript and all-things web! 🌐
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=🙃">🙃</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👨‍💻">👨‍💻</a></td>
 </tr>
-<tr style="text-align: center">
-  <td><a id="count-👋">0</a></td>
-  <td><a id="count-👍">0</a></td>
-  <td><a id="count-👊">0</a></td>
-  <td><a id="count-❤️">0</a></td>
-  <td><a id="count-😂">0</a></td>
-  <td><a id="count-🤓">0</a></td>
-  <td><a id="count-😎">0</a></td>
-  <td><a id="count-😛">0</a></td>
-  <td><a id="count-🙃">0</a></td>
-  <td><a id="count-👨‍💻">‍0</a></td>
+<tr align="center">
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👋"><span id="count-👋">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👍"><span id="count-👍">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👊"><span id="count-👊">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=😂"><span id="count-😂">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=🤓"><span id="count-🤓">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=😎"><span id="count-😎">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=😛"><span id="count-😛">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=🙃"><span id="count-🙃">0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👨‍💻"><span id="count-👨‍💻">‍0</span></a></td>
 </tr>
 </table>
 
