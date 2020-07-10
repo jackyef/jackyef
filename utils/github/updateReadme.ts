@@ -47,6 +47,7 @@ export const updateReadme = async (type: string) => {
     },
   );
 
+  // @ts-expect-error
   const _json = await response.json();
   
   return;
