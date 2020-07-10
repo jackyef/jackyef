@@ -7,6 +7,11 @@
   "license": "MIT",
   "devDependencies": {
     "@now/node": "^1.7.1",
+    "@types/node-fetch": "^2.5.7",
+    "prettier": "^2.0.5",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }

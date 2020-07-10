@@ -16,7 +16,7 @@ My name is Jacky, I work with JavaScript and all-things web! 🌐
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=🙃">🙃</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👨‍💻">👨‍💻</a></td>
 </tr>
-<tr>
+<tr style="text-align: center">
   <td><a id="count-👋">0</a></td>
   <td><a id="count-👍">0</a></td>
   <td><a id="count-👊">0</a></td>
