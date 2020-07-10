@@ -14,7 +14,7 @@ My name is Jacky, I work with JavaScript and all-things web! 🌐
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😎">😎</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😛">😛</a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=🙃">🙃</a></td>
-  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👨‍💻">👨‍💻</a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=😉">😉</a></td>
 </tr>
 <tr align="center">
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👋"><span id="count-👋">0</span></a></td>
@@ -26,7 +26,7 @@ My name is Jacky, I work with JavaScript and all-things web! 🌐
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😎"><span id="count-😎">0</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😛"><span id="count-😛">0</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=🙃"><span id="count-🙃">0</span></a></td>
-  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👨‍💻"><span id="count-👨‍💻">‍0</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=😉"><span id="count-😉">‍0</span></a></td>
 </tr>
 </table>
 

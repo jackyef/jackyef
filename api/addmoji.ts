@@ -11,7 +11,7 @@ const allowedEmojis: Record<string, boolean> = {
   '😎': true,
   '😛': true,
   '🙃': true,
-  '👨‍💻': true,
+  '😉': true,
 };
 export default async (req: NowRequest, res: NowResponse) => {
   const type = String(req.query.type);
