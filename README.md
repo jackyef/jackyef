@@ -22,7 +22,7 @@
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👋"><span id="count-👋">42</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👍"><span id="count-👍">9</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👊"><span id="count-👊">8</span></a></td>
-  <td><a href="https://jackyef.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">9</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">10</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😂"><span id="count-😂">3</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=🤓"><span id="count-🤓">7</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😎"><span id="count-😎">15</span></a></td>
