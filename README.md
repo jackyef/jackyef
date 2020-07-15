@@ -20,7 +20,7 @@
 </tr>
 <tr align="center">
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👋"><span id="count-👋">65</span></a></td>
-  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👍"><span id="count-👍">14</span></a></td>
+  <td><a href="https://jackyef.vercel.app/api/addmoji?type=👍"><span id="count-👍">15</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=👊"><span id="count-👊">10</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=❤️"><span id="count-❤️">10</span></a></td>
   <td><a href="https://jackyef.vercel.app/api/addmoji?type=😂"><span id="count-😂">4</span></a></td>
